@@ -1,0 +1,52 @@
+.right{
+    width: 65%;
+    height: 100%;
+    /* background-color: chartreuse; */
+    position: relative;
+    float: right;
+}
+.right-upper{
+    width: 100%;
+    height: 50%;
+    /* background-color: violet; */
+}
+.right-lower{
+    width: 100%;
+    height: 50%;
+    /* background-color:thistle; */
+}
+.about{
+    position: relative;
+    top: 25px;
+    left: 50px;
+}
+.gym{
+   position: relative;
+    width: 90px;
+    height: 2.5px;
+    background-color: brown;
+    top: 33px;
+    left: 50px;
+}
+.ppg{
+    position: absolute;
+    left: 50px;
+    top: 60px;
+    font-size: 14px;  
+}
+.education{
+    position: relative;
+    left: 50px;
+    top: 27%;
+}
+.nnum{
+    position: relative;
+    top: 28%;
+    font-size: 14px;
+    line-height: 30px;
+}
+.tra{
+    position: relative;
+    top: 29%;
+    left: 50px;
+}

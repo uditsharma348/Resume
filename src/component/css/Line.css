@@ -1,0 +1,63 @@
+.line{
+    width: 90px;
+    height: 2.5px;
+    background-color: brown;
+    position: relative;
+    left: 20%;
+    top: 26%;
+}
+.pg{
+    margin-top: 19px;
+}
+p{
+    position: relative;
+    top: 23%;
+    font-size: 15px;
+    left: 22%;
+    line-height: 10px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+ul{
+    position: relative;
+    top: 23%;
+    left: 15px;
+    font-size: 15px;
+}
+ul>li{
+    font-family:'Times New Roman', Times, serif;
+}
+.tech{
+    position: relative;
+    top: 10px;
+}
+.num{
+    width: 90px;
+    height: 2.5px;
+    background-color: brown;
+    position: relative;
+    top: 17px;
+    left: 21%;
+}
+.pera3-li{
+    position: relative;
+    top: 2%;
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lang{
+    position: relative;
+    top: 17px;
+}
+.bag{
+    width: 90px;
+    height: 2.5px;
+    background-color: brown;
+    position: relative;
+    top: 24px;
+    left: 50px;
+}
+.index{
+    position: relative;
+    top: 22px;
+}
